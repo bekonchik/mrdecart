@@ -1,0 +1,17 @@
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\bin\Debug\net8.0\Autopiter.Application.deps.json
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\bin\Debug\net8.0\Autopiter.Application.dll
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\bin\Debug\net8.0\Autopiter.Application.pdb
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\bin\Debug\net8.0\Autopiter.Core.dll
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\bin\Debug\net8.0\Autopiter.Infrastructure.dll
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\bin\Debug\net8.0\Autopiter.Infrastructure.pdb
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\bin\Debug\net8.0\Autopiter.Core.pdb
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\Autopiter.Application.csproj.AssemblyReference.cache
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\Autopiter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\Autopiter.Application.AssemblyInfoInputs.cache
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\Autopiter.Application.AssemblyInfo.cs
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\Autopiter.Application.csproj.CoreCompileInputs.cache
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\Autopiter.Application.csproj.CopyComplete
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\Autopiter.Application.dll
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\refint\Autopiter.Application.dll
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\Autopiter.Application.pdb
+C:\Users\eded\source\repos\AutopiterTestTask\Autopiter.Service\obj\Debug\net8.0\ref\Autopiter.Application.dll
