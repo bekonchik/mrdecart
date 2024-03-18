@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d29tDantL0TMt5KsXXZttv3QUEGorhdAY+ifRPkKYfObcfUmb7B4iZnecUPj7f3CfDCPby/aXyf14OXtqr/wqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eded\\source\\repos\\AutopiterTestTask\\Autopiter.Core\\Autopiter.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eded\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
