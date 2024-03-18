@@ -1,0 +1,6 @@
+@Autopiter.Web_HostAddress = http://localhost:5028
+
+GET {{Autopiter.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
